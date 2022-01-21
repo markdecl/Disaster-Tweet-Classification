@@ -3,9 +3,9 @@
 ## Tools and technologies used:
 * Jupyter Notebook
 * Python3
- * pandas
- * NumPy
- * Seaborn
+    * pandas
+    * NumPy
+    * Seaborn
 
 ## Challenges:
 
