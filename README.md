@@ -3,9 +3,13 @@
 ## Tools and technologies used:
 * Jupyter Notebook
 * Python3
-    * pandas
-    * NumPy
-    * Seaborn
+  * BeautifulSoup
+  * NumPy
+  * pandas
+  * NLTK
+  * SpaCy
+  * scikit-learn
+  * keras
 
 ## Challenges:
 
