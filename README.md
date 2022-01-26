@@ -1,6 +1,6 @@
 # Disaster-Tweet-Classification
 
-Natural Language Processing with Disaster Tweets competition: https://www.kaggle.com/c/nlp-getting-started
+Natural Language Processing with Disaster Tweets competition on Kaggle: https://www.kaggle.com/c/nlp-getting-started
 
 ## Tools and technologies used:
 * Jupyter Notebook
