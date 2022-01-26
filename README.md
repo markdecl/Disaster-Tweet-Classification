@@ -13,6 +13,5 @@ Natural Language Processing with Disaster Tweets competition on Kaggle: https://
   * scikit-learn
   * keras
 
-## Challenges:
-
 ## Credits:
+* https://www.kaggle.com/c/nlp-getting-started/discussion/281528
